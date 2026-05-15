@@ -9,7 +9,7 @@ This project runs on [Google Colab](https://colab.research.google.com/) and requ
 ### Step 1: Set up Kaggle API token
 
 1. Create a free account at [kaggle.com](https://www.kaggle.com) if you don't have one
-2. Go to **Settings → API Tokens → Create New Token**
+2. Go to **Settings → API Tokens → Generate New Token**
 3. Copy the token string that is generated
 
 ### Step 2: Open the notebook in Google Colab
@@ -19,9 +19,8 @@ This project runs on [Google Colab](https://colab.research.google.com/) and requ
 
 ### Step 3: Run the notebook
 
-1. Run **Cell 1** to install dependencies and imports
-2. Run **Cell 2** — it will prompt you to upload your `kaggle.json` file. When prompted, select the file you downloaded in Step 1. The dataset will download and extract automatically.
-3. Run all remaining cells in order from top to bottom
+1. In **Cell 2** — add the token string copied in **Step 1**
+2. Run all cells top to bottom
 
 ### Step 4: Try the demo
 
