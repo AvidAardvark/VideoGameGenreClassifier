@@ -1,6 +1,6 @@
 # Video Game Genre Classifier
 
-A deep learning image classifier that predicts a video game's genre from a screenshot, built using transfer learning with a fine-tuned ResNet-18 model.
+Predicts a video game's genre from a screenshot, built using transfer learning with a fine-tuned ResNet-18 model.
 
 ## How to Run
 
